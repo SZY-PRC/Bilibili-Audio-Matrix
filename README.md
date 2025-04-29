@@ -1,7 +1,7 @@
 # Bilibili-Audio-Matrix
 B站声道控制器（油猴脚本）
 
-‘’‘js
+‘’‘javascript
 
 // ==UserScript==
 // @name         B站声道控制器
