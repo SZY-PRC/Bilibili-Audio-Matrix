@@ -30,8 +30,8 @@ B站声道控制器（油猴脚本）
     GM_addStyle(`
         .audio-ctrl-panel {
             position: absolute;
-            right: 180px;
-            bottom: 50px;
+            left: 20px;
+            bottom: 100px;
             z-index: 9999;
             background: rgba(16,18,20,0.95);
             border-radius: 12px;
